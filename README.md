@@ -11,7 +11,7 @@ The development workflow goes like this :
 
 1. Clone the repo.
 2. Cd into the repo.
-3. Currently, you are on your master branch. Suppose you want to work on a feature X, (e.g.,Adding background image on the home page), you should a create a new branch with some name of your choice, with:    
+3. Currently, you are on your master branch. Now you need to add a file named `Your_Name.txt`, you should a create a new branch with any name of your choice(could be your name as well), with:    
 
     `git branch <branch-name>`    
     And then, checkout to the branch you created by:
@@ -19,7 +19,7 @@ The development workflow goes like this :
     `git checkout <branch-name>`
     This brings you to your new branch \<branch-name>.
     
-4. Now, open up your text editor, make some changes to the files you want to, save it. When you have made a considerable amount of change, `commit`. You should commit neither too often nor too late.
+4. Now, open up your text editor, create a file named `Your_Name.txt`.In the file, you should add your name in the first line, and your email-id in the second line. When you have made the changes, `commit`.
 
     The process of commiting goes like this:
     
@@ -29,7 +29,7 @@ The development workflow goes like this :
     
     `git commit` : On doing this, a text editor opens up and you are asked to enter a commmit message. Commit message should be short (less than 50 characters), and should convey what change you have made. Keep the commit message as meaningful as possible.
     
-5. You have successfully committed your changes. You can add a few more commits, and then push these changes to your remote repository by :
+5. You have successfully committed your changes. You can then push these changes to your remote repository by :
     `git push origin <branch-name>`.    
     Note that all these changes took place in your created branch \<branch-name> , and you can delete whatever changes you made by deleting the branch. The above command pushed youur code online to your github repository.
     
