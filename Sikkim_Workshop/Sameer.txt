@@ -1,0 +1,7 @@
+Hi! I'm Sameer and I'm a first year ECE Undergrad at NIT Sikkim. I've immense interest in Computer Science.
+I'm making a change in this file by typing this line.
+
+This is the 2nd change and I'm also renaming the file.
+
+
+Another push request under feature2 branh
