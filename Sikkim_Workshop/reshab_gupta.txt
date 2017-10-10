@@ -1,2 +1,4 @@
-Reshab Gupta
-b160086@nitsikkim.ac.in
+name-Reshab Gupta
+roll b160086
+
+emailid-b160086@nitsikkim.ac.in
